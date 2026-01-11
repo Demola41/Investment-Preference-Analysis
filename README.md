@@ -14,4 +14,4 @@ Built a dynamic **Excel Dashboard** featuring custom slicers for Age Group, Sour
 ## 5. Recommendation
 * **Targeted Marketing:** Tailor marketing messages for long-term investment products specifically around **Retirement Security** for the 26-30 age group (Established Adults), as this aligns with their primary motivation identified in the data.
 ## 6. Project Files
--<a href="https://github.com/Demola41/Investment-Preference-Analysis/blob/main/Investment%20Preference%20Analysis%20Project%208.xlsx" >[Download Excel Dashboard (.xlsx)]</a> 
+-<a href="https://github.com/Demola41/Investment-Preference-Analysis/blob/main/Investment%20Preference%20Analysis.xlsx" >[Download Excel Dashboard (.xlsx)]</a> 
