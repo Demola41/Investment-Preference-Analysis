@@ -1,11 +1,11 @@
 # Investment Preference & Behavior Analysis Dashboard
-![Dashboard Preview](YOUR_IMAGE_NAME.png)
+<a href="(https://github.com/Demola41/Investment-Preference-Analysis/blob/main/Investment%20Preference%20Analysis%20Project%208.png">[Dashboard Preview]</a>
 ## 1. Situation
 Analyzed survey data from **1,120 individual investors** to understand behavioral patterns, risk appetite, and asset allocation across varying demographics.
 ## 2. Task
 The objective was to determine preferred investment avenues by gender and age (grouped into Early, Established, and Experienced Adulthood) and identify the primary factors driving financial decisions.
 ## 3. Action
-Built a dynamic **Excel Dashboard** featuring custom slicers for Age Group and Source.
+Built a dynamic **Excel Dashboard** featuring custom slicers for Age Group, Source and Gender.
 * **Correlation Analysis:** Used Pivot Charts to correlate Savings Objectives with Investment Duration.
 * **Driver Analysis:** Analyzed the influence of expected returns on Mutual Fund choices.
 ## 4. Results & Insights
