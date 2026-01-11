@@ -1,5 +1,5 @@
 # Investment Preference & Behavior Analysis Dashboard
-<a href="https://github.com/Demola41/Investment-Preference-Analysis/blob/main/Investment%20Preference%20Analysis%20Project%208.png" >[Dashboard Preview]</a>
+<a href="https://github.com/Demola41/Investment-Preference-Analysis/blob/main/Investment%20Preference%20Dashboard.png" >[Dashboard Preview]</a>
 ## 1. Situation
 Analyzed survey data from **1,120 individual investors** to understand behavioral patterns, risk appetite, and asset allocation across varying demographics.
 ## 2. Task
